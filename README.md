@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning 
 - 🌱 I’m currently becoming familiar with terms 
 - 💞️ I’m looking to collaborate when invited to work on a project
-- 📫 How to reach me ...
+- 📫 How to reach me always@reallyfast.info
 
 <!---
 jprawson/jprawson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
